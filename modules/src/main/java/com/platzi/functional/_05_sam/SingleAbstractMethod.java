@@ -22,25 +22,6 @@ public class SingleAbstractMethod {
     }
 
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-
     /**
      * Este concepto es importante empezando en Java 8 por varias razones, la principal
      * es que el compilador nos permitira usar una anotacion disponible UNICAMENTE para
@@ -61,18 +42,6 @@ public class SingleAbstractMethod {
         String getSubText();
     }
 
-    //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
     @FunctionalInterface
     interface MySAMInterfaceIsAlsoAFunction {
@@ -88,18 +57,6 @@ public class SingleAbstractMethod {
         MySAMInterfaceIsAlsoAFunction myFunction = x -> "Result: " + x;
     }
 
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 
     /**
